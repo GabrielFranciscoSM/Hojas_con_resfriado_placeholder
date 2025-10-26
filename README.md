@@ -49,7 +49,10 @@ La viabilidad del proyecto depende de la disponibilidad de datos etiquetados par
 *   **[New Plant Diseases Dataset](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset/data):** Contiene un gran volumen de imágenes (aprox. 87,000) de hojas de diferentes especies con diversas enfermedades. Ideal para las etapas de clasificación.
 *   **[Plant Leaf Diseases Dataset](https://www.kaggle.com/datasets/nirmalsankalana/plant-diseases-training-dataset):** Otro recurso valioso para la clasificación de enfermedades.
 
-**Nota:** Será necesario verificar si estos datasets incluyen anotaciones de cajas delimitadoras para entrenar el modelo YOLO. En caso contrario, se deberá realizar un etiquetado manual o buscar datasets alternativos.
+*   **[Leaf disease segmentation dataset](https://www.kaggle.com/datasets/fakhrealam9537/leaf-disease-segmentation-dataset/data):** Dataset con máscaras para la segmentación.
+
+*   **[Apple Tree Leaf Disease Segmentation Dataset](https://www.scidb.cn/en/detail?dataSetId=0e1f57004db842f99668d82183afd578):** Segmentación de hojas de manzana
+*   **[Págnia con varios datasets](https://universe.roboflow.com/search?q=disease+-+v2+release+class%3Aleaf+object+detection):** Página web que contiene diferentes datasets para la segmentación de enfermedades de hojas.
 
 ---
 
