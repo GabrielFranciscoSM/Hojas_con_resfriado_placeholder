@@ -7,7 +7,7 @@
 ## Autores
 
 *   Gabriel Francisco Sánchez Muñoz
-*   Germán [Apellido]
+*   Germán Rodríguez Vidal
 *   Miguel Ángel [Apellido]
 *   Pablo García Bas
 
